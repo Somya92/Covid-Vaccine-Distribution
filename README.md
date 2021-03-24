@@ -4,7 +4,7 @@
 
 -Estimated the cost of shipping of Covid-19 vaccines from hospitals to towns. 
 
--Assumed the demand/cases at each town’s centroid followed a triangle distribution - which is parametrized by min, max, and mode. 
+-Assumed the demand/cases at each town’s centroid follows a triangle distribution - which is parametrized by min, max, and mode. 
 
 -Utilized the minimum cost model using python library- pyomo. 
 
