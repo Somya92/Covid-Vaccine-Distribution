@@ -1,4 +1,7 @@
-# Covid-Vaccine-Distribution
+# Covid-Vaccine-Distribution 
+
+-Language used: Python
+
 -Estimated the cost of shipping of Covid-19 vaccines from hospitals to towns. 
 
 -Assumed the demand/cases at each town’s centroid followed a triangle distribution - which is parametrized by min, max, and mode. 
